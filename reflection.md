@@ -27,4 +27,4 @@ Ultimately, this project really chalanged me. I didn't want to showcase much dat
 
 One last thing, my main function in scraping_code.py is only made for the ufc website and can't be interchanged. I didn't know if I needed a test or not but I included what I think it would br in the tests folder.
 
-
+If I had more time with this project, I would have liked to scrape the individual fighter profile to get the charactersitics. For example, all of the characteristics I was wanting for Jon Jones is on this page: https://www.ufc.com/athlete/jon-jones. I would've also liked to look more into their fight stats such as their accuracy and strike zones. As I mentioned before, I felt that my streamlit was lacking a little bit but my goal was definitely for the user to be able to change out the data.
